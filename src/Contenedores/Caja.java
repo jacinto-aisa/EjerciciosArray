@@ -1,4 +1,6 @@
-package Ejercicio05;
+package Contenedores;
+
+import Contenidos.IPesable;
 
 import java.util.ArrayList;
 

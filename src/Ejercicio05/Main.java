@@ -1,5 +1,11 @@
 package Ejercicio05;
 
+import Contenedores.Caja;
+import Contenedores.CajaCuantica;
+import Contenedores.IColeccionDeCosasQuePesan;
+import Contenidos.Clip;
+import Contenidos.Producto;
+
 public class Main {
     public static void main(String[] args) {
         IColeccionDeCosasQuePesan ColeccionDeCosas = new CajaCuantica();

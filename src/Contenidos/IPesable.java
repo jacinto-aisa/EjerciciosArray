@@ -1,4 +1,4 @@
-package Ejercicio05;
+package Contenidos;
 
 public interface IPesable {
         int damePeso();

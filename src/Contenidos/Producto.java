@@ -1,6 +1,8 @@
-package Ejercicio05;
+package Contenidos;
 
-public class Producto implements IPesable{
+import Contenidos.IPesable;
+
+public class Producto implements IPesable {
     int id;
     String nombre;
 
